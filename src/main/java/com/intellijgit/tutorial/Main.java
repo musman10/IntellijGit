@@ -9,5 +9,8 @@ public class Main {
 
         // Changes from Feature1
         System.out.println("Change from feature");
+
+        // 2nd change from feature 1
+        System.out.println("2nd Change from feature 1");
     }
 }
